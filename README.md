@@ -4,7 +4,7 @@ This repository is a historical record of the founding prompt that produced the 
 
 ## From one prompt to a game
 
-LAST CITY: Living Colony began as a benchmark experiment: could an AI independently design and program a complex system? The first working prototype was created from a single founding prompt given to Qwen4-Max. The model itself chose the architecture, algorithms, mechanics, interface and visual style. The original technical requirements excluded a backend, external libraries and API calls. From the start, the foundation was resident autonomy and emergent behaviour, not classic city-building. The current version is the result of further development of that experiment and has a much more advanced system, AUTONOMY 2.0. We do not claim that the current game was made from one prompt, and we do not claim that each resident is driven by an LLM.
+LAST CITY: Living Colony began as a benchmark experiment: could an AI independently design and program a complex system? The first working prototype was created from a single founding prompt given to Qwen4-Max. The model itself chose the architecture, algorithms, mechanics, interface and visual style. The original technical requirements excluded a backend, external libraries and API calls. From the start, the foundation was resident autonomy and emergent behaviour, not classic city-building. The current version is the result of further development of that experiment and has a much more advanced system, AUTONOMY 2.0. We do not claim that the current game was made from one prompt. None of the residents are driven by LLMs. AUTONOMY 2.0 operates through an independent, local multi-agent decision-making engine.
 
 The complete, unedited founding prompt is in [`ORIGINAL-PROMPT.txt`](ORIGINAL-PROMPT.txt).
 
@@ -41,3 +41,28 @@ LAST CITY: Living Colony is an independent commercial game project. This reposit
 Created by **Goral Z Gor (Poland)**.
 
 Thanks to the Qwen team ([@Alibaba_Qwen](https://x.com/Alibaba_Qwen)). This record is shared as a public account of the experiment, not as a claim of official Qwen or Alibaba sponsorship.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
