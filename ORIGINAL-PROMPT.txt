@@ -1,0 +1,128 @@
+Build a complete, polished browser game from scratch.
+
+Do not ask me any questions. Make all design and technical decisions yourself.
+
+PROJECT:
+Create an original real-time simulation game called “LAST CITY”.
+
+The player controls a small autonomous city surviving in a hostile changing world.
+
+CORE REQUIREMENTS:
+
+1. The world must continue evolving even if the player does nothing.
+2. At least 100 autonomous citizens must exist simultaneously.
+3. Citizens must have individual:
+   - health
+   - hunger
+   - energy
+   - morale
+   - occupation
+   - home
+   - current task
+4. Citizens must independently decide what to do based on their needs and the state of the world.
+5. Include:
+   - day/night cycle
+   - weather
+   - food production
+   - resource gathering
+   - construction
+   - population growth/death
+   - random events
+   - at least one cascading failure mechanic
+6. Player decisions must visibly influence emergent behaviour.
+
+GAMEPLAY:
+
+The player should be able to:
+
+- place buildings
+- assign priorities
+- pause the simulation
+- choose 1x / 2x / 4x simulation speed
+- inspect individual citizens
+- inspect buildings
+- see population/resource statistics
+- see important events in a live event log
+
+Create at least 6 building types.
+
+GAME FEEL:
+
+Do not make this look like a technical prototype.
+
+It should feel like a real small indie game.
+
+Include:
+
+- smooth animation
+- camera movement or map navigation
+- visual feedback for clicks and construction
+- particles or small environmental effects
+- clear visual state changes
+- satisfying UI interactions
+- animated citizens
+- weather effects
+- day/night lighting
+- subtle sound effects generated programmatically if possible
+
+VISUAL DESIGN:
+
+Choose your own strong visual style.
+
+Do NOT use external images, external assets or external libraries.
+
+Everything must be produced with HTML, CSS, JavaScript, Canvas, SVG, CSS effects or programmatically generated graphics.
+
+TECHNICAL REQUIREMENTS:
+
+- Must run locally in a modern browser.
+- No backend.
+- No external dependencies.
+- No CDN.
+- No API calls.
+- Prefer a clean multi-file architecture rather than putting everything into one giant file.
+- Use deterministic seeded randomness where appropriate.
+- The simulation must remain responsive with at least 100 citizens.
+- Avoid obvious memory leaks.
+- Game state must support Save and Load using local browser storage.
+
+QUALITY CONTROL:
+
+Before declaring the project complete:
+
+1. Review your own implementation.
+2. Look for logic bugs.
+3. Look for broken interactions.
+4. Look for performance problems.
+5. Fix the problems you find.
+6. Run any available checks or preview tools you have access to.
+7. Do not claim something works unless you actually implemented it.
+
+IMPORTANT:
+
+I am deliberately not specifying the architecture, algorithms, UI layout or visual style.
+
+Those decisions are part of the test.
+
+I want to evaluate:
+
+- system design
+- programming ability
+- creativity
+- game design
+- visual design
+- autonomy
+- debugging
+- game feel
+
+Do not give me a long explanation before working.
+
+Build the project first.
+
+When finished, give me only:
+
+- a short description of what you built
+- the file structure
+- how to run it
+- what you tested
+- any known limitations
