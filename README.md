@@ -21,10 +21,12 @@ Dates below are taken from confirmed project records.
 - **24 November 2026, Europe/Warsaw** — A public browser demo of the current game (not the first prototype) is confirmed live at https://last-city-demo.dfu925.workers.dev/. The interface shows the version label *R3 · AUTONOMY 2.0*.
 - **24 November 2026, 18:37 Europe/Warsaw** — Official YouTube Short published: [I Closed One Daycare — The City Reacted on Its Own | LAST CITY](https://www.youtube.com/watch?v=Y27sIP5R-Zg).
 - **24 November 2026, 18:41 Europe/Warsaw** — Official gameplay trailer published: [LAST CITY — 124 Autonomous Citizens React on Their Own | Gameplay Trailer](https://www.youtube.com/watch?v=-EYiHgGl-s0).
+- **25 November 2026, Europe/Warsaw** — Public mobile version of the browser demo released at the same URL. LAST CITY is now playable on desktop and mobile devices. Android tested on a Samsung Galaxy Z Fold 7 (38 minutes of continuous play, no noticeable heating, zero crashes, about 10% battery on the unfolded screen, full touch controls, including on mobile data). Desktop re-checked; AUTONOMY 2.0 unchanged; regression tests 139/139 PASS. iOS support implemented, physical iPhone test pending. We do not claim guaranteed compatibility with all devices.
 
 ## Play and watch
 
 - Playable demo (the current game, not the first prototype): https://last-city-demo.dfu925.workers.dev/
+- LAST CITY is now playable on desktop and mobile devices. We do not claim guaranteed compatibility with all devices.
 - Gameplay trailer: https://www.youtube.com/watch?v=-EYiHgGl-s0
 - Short: https://www.youtube.com/watch?v=Y27sIP5R-Zg
 
@@ -41,28 +43,3 @@ LAST CITY: Living Colony is an independent commercial game project. This reposit
 Created by **Goral Z Gor (Poland)**.
 
 Thanks to the Qwen team ([@Alibaba_Qwen](https://x.com/Alibaba_Qwen)). This record is shared as a public account of the experiment, not as a claim of official Qwen or Alibaba sponsorship.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
